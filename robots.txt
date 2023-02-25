@@ -1,0 +1,7 @@
+User-agent: Googlebot
+User-agent: AdsBot-Google
+Disallow: /another-folder/
+
+User-agent: *
+Allow: /
+Sitemap: https://johnlucid1.github.io/search_systems/first_site/anothersite.html
